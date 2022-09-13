@@ -21,19 +21,19 @@
 ---
 
 <p align="center">
-  <img alt="изображение" src="https://github.com/aggink/Course_work3/blob/main/Images/img1.jpg">
+  <img alt="изображение" src="https://github.com/Nefain/ComGraphKurch/blob/main/Images/img1.png">
 </p>
 
 ---
 
 <p align="center">
-  <img alt="изображение" src="https://github.com/aggink/Course_work3/blob/main/Images/img2.jpg">
+  <img alt="изображение" src="https://github.com/Nefain/ComGraphKurch/blob/main/Images/img2.png">
 </p>
 
 ---
 
 <p align="center">
-  <img alt="изображение" src="https://github.com/aggink/Course_work3/blob/main/Images/img3.png">
+  <img alt="изображение" src="https://github.com/Nefain/ComGraphKurch/blob/main/Images/img3.png">
 </p>
 
 ---
